@@ -1,0 +1,6 @@
+{
+  "dbhost": "manitoumiddleschooldb.cnaaiauktiei.us-east-1.rds.amazonaws.com",
+  "dbname": "ManitouMiddleSchoolDB", 
+  "dbuser": "gdufford",
+  "dbpassword": "nilood27"
+}
